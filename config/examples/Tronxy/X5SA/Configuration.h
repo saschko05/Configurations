@@ -86,7 +86,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_CHITU3D_6
+  #define MOTHERBOARD BOARD_CHITU3D_V6
 #endif
 
 /**
